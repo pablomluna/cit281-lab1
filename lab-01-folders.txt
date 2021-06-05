@@ -1,0 +1,12 @@
+total 16
+-rw-r--r--  1 pablomanriquez  staff   48 Mar 31 18:17 app.js
+-rw-r--r--  1 pablomanriquez  staff    0 Mar 31 19:02 lab-01-folders.txt
+-rw-r--r--@ 1 pablomanriquez  staff  445 Mar 31 16:27 lab-01-shortcuts.txt
+drwxr-xr-x@ 3 pablomanriquez  staff   96 Mar 31 16:01 p1
+drwxr-xr-x@ 2 pablomanriquez  staff   64 Mar 31 15:57 p2
+drwxr-xr-x@ 2 pablomanriquez  staff   64 Mar 31 15:57 p3
+drwxr-xr-x@ 2 pablomanriquez  staff   64 Mar 31 15:57 p4
+drwxr-xr-x  2 pablomanriquez  staff   64 Mar 31 15:57 p5
+drwxr-xr-x@ 2 pablomanriquez  staff   64 Mar 31 15:57 p6
+drwxr-xr-x@ 2 pablomanriquez  staff   64 Mar 31 15:57 p7
+drwxr-xr-x@ 2 pablomanriquez  staff   64 Mar 31 15:58 p8
